@@ -1,2 +1,1 @@
-First line 
-New line added after first commit
+replaced all text on hello.txt
